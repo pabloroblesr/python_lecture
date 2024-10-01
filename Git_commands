@@ -2,4 +2,8 @@ Git commands
 
 git clone <https url> -> clone a repository to local machine
 git add <file>  -> add the file into the repository
- 
+git commit -m "message"  -> what changes I made in the file"
+git commit -am "message" -> add and commit all files with change
+git status  -> gives the status of the github with your local machine
+git push origin main  -> loads the commited files to the github 
+git config --global credential.helper store  -> stores the token in my local computer, and it wont ask again when push something
