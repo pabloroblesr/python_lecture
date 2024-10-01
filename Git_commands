@@ -1,0 +1,5 @@
+Git commands
+
+git clone <https url> -> clone a repository to local machine
+git add <file>  -> add the file into the repository
+ 
